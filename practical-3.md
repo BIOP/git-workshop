@@ -28,7 +28,7 @@ Now you've solved conflicts, and you know what is a version number, let's do our
 It is not mandatory, as we usually prefer to put the version number as a title. So, we can leave it blank.
 5. Add a description. The description is very important, even if it is not mandatory. All changes that are done
    in the release, even minor ones, should be detailed there, so that everyone is informed.
-   In our example, let's put `My first release made with semver, during the git/gitlab workshop of the BIO-410 course at EPFL`
+   In our example, let's put `My first release made with semver, during the git/gitlab workshop`
 > The fact that the description is optional is because the release description can also be part of
 > the CHANGELOG.md file (not covered by the course).
 6. Finally, click on `Create release`
@@ -103,7 +103,7 @@ This issue was fixed in version [v1.0.1](url/of/the/release) of the code.
 
 > Note: It is a good practice to link the release to the issue, so that everyone know in which release this bug was fixed.
 
-> Note: To get the release URL, you can click on the release itself and copy the URL from the webpage. It should look like this `https://gitlab.epfl.ch/gaspar/gitlab-workshop/-/releases/v1.0.0`
+> Note: To get the release URL, you can click on the release itself and copy the URL from the webpage. It should look like this `https://hostname/username/gitlab-workshop/-/releases/v1.0.0`
 
 8. Finally, close the issue.
 
@@ -119,9 +119,9 @@ It's often that developers contribute to projects that are not their own, or sim
 publicly available template code. In that case, the good practice is to hard-copy this code remotely to
 your Gitlab account before starting editing anything. This action is called `forking` a project.
 
-1. Browse the project to fork : https://gitlab.epfl.ch/bio-410/git-workshop
+1. Browse the project to fork : https://github.com/Rdornier/git-workshop
 2. Click on `Forks` and enter
-   - The project name ; for the course, you can simply add your gaspar name as suffix `git-workshop-your-gaspar`
+   - The project name ; ex: `git-workshop-nickname`
    - Select your account for the project URL because you want to fork it for you.
    - Select `private` visibility level, as you don't want people to see it (at least for now)
    - Click on `Fork project`
@@ -197,7 +197,7 @@ Now, you can begin to work on this new project !
 
 6. Go back the `Connect to GitLab - Login` window.
 7. Enter the following information
-- **Username**: your gaspar username, lowercase.
+- **Username**
 - **Personal access token**: paste your token here.
 8. Click on `Sign in`.
 

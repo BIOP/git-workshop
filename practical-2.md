@@ -4,7 +4,7 @@
 In order to host your versioned code on GitLab, you need to have an existing remote project, already created on GitLab.
 This project is generally an empty project, with a certain name.
 
-1. Connect to [gitlab.epfl.ch](https://gitlab.epfl.ch) with your EPFL account
+1. Connect to your GitLab account
 2. Select `New project`, then `Create blank project`
 3. Give a name to it (ex: `my-first-project-with-git`)
 
