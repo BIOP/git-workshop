@@ -46,14 +46,13 @@ But if you change the computer, you'll need to do it again.
 ## Modify the tracked files
 
 5. Under the `practical` folder, open the **README.md** with a text editor (it can be `TextEdit`, `Notepad` or `Notepad++`)
-6. The **README** doesn't follow the visual guidlines for the course. Let's correct it by adding the EPFL logo, the moodle link and the course banner
+6. The **README** is missing a welcome message. Let's correct it by adding it, with the workshop logo.
 Copy the following lines at the very beginning of the **README** and save it.
 
 ````
-<img src="icons/bii-banner.png" alt="image" height=40px>
-<hr>
+Welcome to the Git & GitLab Workshop !
 
-### **[Moodle BIO-410](https://moodle.epfl.ch/course/view.php?id=15721)**  <img src="icons/epfl-logo.png" height=40px alt="image" align="right">
+<img src="icons/banner-image.png" width="30%">
 ````
 7. Do a commit with a pertinent message (example: *Update README with course visual guidlines*)
 
