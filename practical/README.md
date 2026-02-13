@@ -1,7 +1,3 @@
-Welcome to the Git & GitLab Workshop !
-
-<img src="icons/banner-image.png" width="30%">
-
 # Blob detection macro
 
 This simple macro detects blobs on fluorescence images (i.e. with black background).
