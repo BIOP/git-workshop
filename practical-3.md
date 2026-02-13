@@ -103,7 +103,7 @@ This issue was fixed in version [v1.0.1](url/of/the/release) of the code.
 
 > Note: It is a good practice to link the release to the issue, so that everyone know in which release this bug was fixed.
 
-> Note: To get the release URL, you can click on the release itself and copy the URL from the webpage. It should look like this `https://hostname/username/gitlab-workshop/-/releases/v1.0.0`
+> Note: To get the release URL, you can click on the release itself and copy the URL from the webpage. It should look like this `https://hostname/username/git-workshop/-/releases/v1.0.0`
 
 8. Finally, close the issue.
 
@@ -119,7 +119,7 @@ It's often that developers contribute to projects that are not their own, or sim
 publicly available template code. In that case, the good practice is to hard-copy this code remotely to
 your Gitlab account before starting editing anything. This action is called `forking` a project.
 
-1. Browse the project to fork : https://github.com/Rdornier/git-workshop
+1. Browse the project to fork : https://github.com/BIOP/git-workshop
 2. Click on `Forks` and enter
    - The project name ; ex: `git-workshop-nickname`
    - Select your account for the project URL because you want to fork it for you.

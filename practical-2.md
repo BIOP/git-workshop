@@ -51,7 +51,7 @@ You need to do a **right-click -> paste** to paste the URL
   <img src="icons/practical-2-git-remote.png" width="80%">
 </div>
 
-## Push new commits on Gitlab
+## Push new commits on GitLab
 
 The `push` action on Git sends all the commits newer than the last one set on GitLab to the GitLab project.
 In the two previous section, we've created an empty project on GitLab and have linked it to the local project.
