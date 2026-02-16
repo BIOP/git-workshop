@@ -6,7 +6,7 @@ between those two.
 
 ## How to use it ?
 - Follow practicals in the order from 1 to 4
-- The slides are available on the moodle of the course.
+- The slides are available on [Zenodo](https://zenodo.org/records/18662531).
 
 ## Data
 - `Edu-_RFP-_(5)` : downloaded from this [zenodo repo](https://zenodo.org/records/4248921)
