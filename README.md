@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18662568.svg)](https://doi.org/10.5281/zenodo.18662568)
+
 # Git & GitLab workshop
 
 This workshop aims at learning basics of the version control with the well-known and widely used Git manager.
